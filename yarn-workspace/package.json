@@ -4,6 +4,7 @@
   "workspaces": [
     "apps/frontend",
     "apps/backend",
-    "packages/a/"
+    "packages/a",
+    "packages/ui"
   ]
 }
