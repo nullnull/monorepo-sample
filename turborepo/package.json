@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-sample/root",
+  "private": true,
+  "workspaces": [
+    "apps/frontend",
+    "apps/backend",
+    "packages/a",
+    "packages/ui"
+  ]
+}
