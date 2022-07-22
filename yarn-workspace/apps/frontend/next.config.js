@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-}
+const withTM = require("next-transpile-modules")(["@monorepo-sample/ui"]);
 
-module.exports = nextConfig
+module.exports = withTM({
+  reactStrictMode: true,
+});

@@ -3,9 +3,10 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { functionA  } from '@monorepo-sample/a'
-
+import { Button, functionFromUI  } from '@monorepo-sample/ui'
 const Home: NextPage = () => {
   const x = functionA()
+  const y = functionFromUI()
   return (
     <div className={styles.container}>
       <Head>
@@ -16,8 +17,9 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          { x } Welcome to <a href="https://nextjs.org">Next.js!</a>
+          { x } { y } Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <Button/>
 
         <p className={styles.description}>
           Get started by editing{' '}
