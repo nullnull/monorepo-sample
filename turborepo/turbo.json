@@ -4,11 +4,10 @@
     "build": {
       "dependsOn": [
         "^build"
-      ]
-    },
-    "clean": {
-      "dependsOn": [
-        "^clean"
+      ],
+      "outputs": [
+        "dist/**",
+        ".next/**"
       ]
     }
   }
