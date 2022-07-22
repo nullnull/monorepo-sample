@@ -2,8 +2,10 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import { functionA  } from '@monorepo-sample/a'
 
 const Home: NextPage = () => {
+  const x = functionA()
   return (
     <div className={styles.container}>
       <Head>
@@ -14,7 +16,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          { x } Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
