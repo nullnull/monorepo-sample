@@ -8,6 +8,11 @@
     "packages/ui"
   ],
   "devDependencies": {
+    "onchange": "^7.1.0",
     "turbo": "^1.3.4"
+  },
+  "scripts": {
+    "build": "turbo run build",
+    "watch": "onchange '**/*.ts' '**/*.tsx' -- yarn build"
   }
 }
