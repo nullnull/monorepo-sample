@@ -13,6 +13,7 @@
   },
   "scripts": {
     "build": "turbo run build",
+    "clean": "turbo run clean",
     "watch": "onchange '**/*.ts' '**/*.tsx' -- yarn build"
   }
 }
