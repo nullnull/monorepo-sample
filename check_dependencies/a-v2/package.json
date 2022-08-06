@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "katsumanarisawa-a": "^0.0.2"
+    "katsumanarisawa-a": "0.0.2",
+    "just-clone": "1.0.2"
   }
 }

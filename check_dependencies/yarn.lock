@@ -2,12 +2,22 @@
 # yarn lockfile v1
 
 
+just-clone@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-1.0.1.tgz#e11f6610efe58f7236ff3b3bdf57d7328509f4f3"
+  integrity sha512-bw1e5JYui4ksHqBjWd6dQd2kuUBPDuFTg4e69Nhobc2ebXT3eJUr1Q+F149j57H9qAPVfpIzX01H82w3cBEOww==
+
+just-clone@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-1.0.2.tgz#bfb3faef65aa12a316058712945c326fd8f01434"
+  integrity sha512-p93GINPwrve0w3HUzpXmpTl7MyzzWz1B5ag44KEtq/hP1mtK8lA2b9Q0VQaPlnY87352osJcE6uBmN0e8kuFMw==
+
 katsumanarisawa-a@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.1.tgz#00d199f30666ea2098a58821ee5dca3194e740fd"
   integrity sha512-xkfJEZItDLAoZy3mnLVlA3Zf2Acxxkz+0ZD5ZixEe0ubA+7LFcQNuFPYZxoTfZdjL06rLDNL01vMNrGGYXxJ1g==
 
-katsumanarisawa-a@^0.0.2:
+katsumanarisawa-a@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.2.tgz#3fde490379efdd8709d977a355305cb3df563aa8"
   integrity sha512-P/MkfzL6p4t4GrAiVIWCoALcLm6cw94Wzg8YFPWJ92TTPrpR3lSyGwgNYSnd2YyjUEZz1w4wa5zYI9EouWsFYQ==
