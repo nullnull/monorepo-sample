@@ -32,16 +32,16 @@ katsumanarisawa-a@0.0.6:
   resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.6.tgz#ffd656750ada601fc32ce5e2edb29a67bff4e640"
   integrity sha512-PaNeWPewfNzQLf+y1IZPLE/895VB1yzK8lTyGeZpaJH9fiXP2+fJQR3grl0rztVXwlnRCG8SmZWxmM5CE5cUrg==
 
-katsumanarisawa-b@0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/katsumanarisawa-b/-/katsumanarisawa-b-0.0.3.tgz#0911a8667e06bfb2a0591f110bf90d9798f7d1f1"
-  integrity sha512-LWQyzD6u7v2+JQWMU1TrdHEY4XWDC/60AGC8hrvcx+8RZtezAxPAZKa98uS+RmnH+uVQRd2aRmPQ3vYjr7Rg0g==
+katsumanarisawa-b@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-b/-/katsumanarisawa-b-0.0.5.tgz#5f2359a19a88c59659073f697d53db1f73870999"
+  integrity sha512-zxn42mLPDAYvZLXtfscx4xba+QNCj60vKl/UZZmbTjFVpiPYEX1tt8096z95VC25OVGTYxBBYZsz5XqecePGMg==
   dependencies:
     katsumanarisawa-a "0.0.5"
 
-katsumanarisawa-c@0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/katsumanarisawa-c/-/katsumanarisawa-c-0.0.3.tgz#5a936d774c899803840dacc563da7fdcd3c562bb"
-  integrity sha512-Ka1eNi0cwyYHu3INY41chMMZkj/wywgXdN9byUYeSXttcBn2uVz5qt6J1V0mUcGDCwoloCpq1Dtug6htJ98tHQ==
+katsumanarisawa-c@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-c/-/katsumanarisawa-c-0.0.4.tgz#a00678a04be3e9044d1c75657f68324a4d82a7f0"
+  integrity sha512-njtOgyZtr7KghV4/+u2Zx1sw5JeJeJ8q18ZPdcrtpClZb1Wx+xBabAah0HDKLfOk0MsH6OCaS9C3e1Ct82Tgtw==
   dependencies:
     katsumanarisawa-a "0.0.6"
