@@ -1,8 +1,8 @@
 "use strict";
 exports.__esModule = true;
 exports.functionB = void 0;
-var a_1 = require("../a");
+var katsumanarisawa_a_1 = require("katsumanarisawa-a");
 function functionB() {
-    return "functionB v0.0.2 a: " + a_1.functionA();
+    return "functionB v0.0.3 a: " + katsumanarisawa_a_1.functionA();
 }
 exports.functionB = functionB;

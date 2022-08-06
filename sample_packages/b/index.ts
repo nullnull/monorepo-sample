@@ -1,5 +1,5 @@
-import { functionA } from "../a";
+import { functionA } from "katsumanarisawa-a";
 
 export function functionB() {
-  return `functionB v0.0.2 a: ${functionA()}`
+  return `functionB v0.0.3 a: ${functionA()}`
 }
