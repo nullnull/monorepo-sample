@@ -1,0 +1,3 @@
+function functionC() {
+    return 'c';
+}
