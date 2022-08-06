@@ -2,6 +2,7 @@
   "name": "@monorepo-sample/root",
   "private": true,
   "workspaces": [
-    "da"
+    "da",
+    "a-v1"
   ]
 }
