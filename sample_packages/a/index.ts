@@ -1,3 +1,3 @@
 function functionA() {
-  return 'a'
+  return 'functionA v0.0.3'
 }
