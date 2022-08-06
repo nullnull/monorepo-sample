@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "just-clone": ">1.0.1",
-    "katsumanarisawa-a": ">0.0.1"
+    "katsumanarisawa-a": "0.0.1"
   }
 }
