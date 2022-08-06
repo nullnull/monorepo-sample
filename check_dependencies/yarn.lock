@@ -32,10 +32,10 @@ katsumanarisawa-a@0.0.5:
   resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.5.tgz#f817c0ed15bc43cf2ac2f0b8755786b088d0e34f"
   integrity sha512-HWczeXopdhHRk4sD1UB3LkuQTArVZXsr85rfoBJwVPLUeHhxa0lDRToy37VDHbML4aDiADEvY43Acwz7F4qZKA==
 
-katsumanarisawa-b@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/katsumanarisawa-b/-/katsumanarisawa-b-0.0.2.tgz#73c2285940d569f7a01effcdf0b916e5a6575f70"
-  integrity sha512-2rtErQD9Yzap8SPlUj0Xg5/VklhVMcQ7JsBaJUvhYbN72eX16GZ2D25sqPXSf+Fc6Ehf94nW6z7npM+CKn13bg==
+katsumanarisawa-b@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-b/-/katsumanarisawa-b-0.0.3.tgz#0911a8667e06bfb2a0591f110bf90d9798f7d1f1"
+  integrity sha512-LWQyzD6u7v2+JQWMU1TrdHEY4XWDC/60AGC8hrvcx+8RZtezAxPAZKa98uS+RmnH+uVQRd2aRmPQ3vYjr7Rg0g==
   dependencies:
     katsumanarisawa-a "0.0.5"
 
