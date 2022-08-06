@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-katsumanarisawa-a@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.2.tgz#3fde490379efdd8709d977a355305cb3df563aa8"
-  integrity sha512-P/MkfzL6p4t4GrAiVIWCoALcLm6cw94Wzg8YFPWJ92TTPrpR3lSyGwgNYSnd2YyjUEZz1w4wa5zYI9EouWsFYQ==
+katsumanarisawa-a@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.6.tgz#ffd656750ada601fc32ce5e2edb29a67bff4e640"
+  integrity sha512-PaNeWPewfNzQLf+y1IZPLE/895VB1yzK8lTyGeZpaJH9fiXP2+fJQR3grl0rztVXwlnRCG8SmZWxmM5CE5cUrg==
