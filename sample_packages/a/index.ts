@@ -1,3 +1,3 @@
-function functionA() {
-  return 'functionA v0.0.4'
+export function functionA() {
+  return 'functionA v0.0.5'
 }
