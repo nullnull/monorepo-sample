@@ -33,3 +33,10 @@ katsumanarisawa-b@0.0.1:
   integrity sha512-N0POB+LKigDI9CxwUkxQeJQW1YIx12CNbR3eftOdEP4CgG/DHDtX8I/UbyMjI5EVomQy2VSBvF9WsvYLiP/4rw==
   dependencies:
     katsumanarisawa-a "0.0.1"
+
+katsumanarisawa-c@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-c/-/katsumanarisawa-c-0.0.1.tgz#02ebf468b937ea0b78d45d93028821cbbd6e5775"
+  integrity sha512-yBuV2Gb46xXsbavzEjFZWMBzIIH9PktrIYHFVJRPH6YSLEa6JDChDrh9n+vTtyUR+/t25Abbs4HwljrzjNn7vA==
+  dependencies:
+    katsumanarisawa-a "0.0.2"
