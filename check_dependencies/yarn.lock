@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-just-clone@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-1.0.1.tgz#e11f6610efe58f7236ff3b3bdf57d7328509f4f3"
-  integrity sha512-bw1e5JYui4ksHqBjWd6dQd2kuUBPDuFTg4e69Nhobc2ebXT3eJUr1Q+F149j57H9qAPVfpIzX01H82w3cBEOww==
-
 just-clone@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/just-clone/-/just-clone-1.0.2.tgz#bfb3faef65aa12a316058712945c326fd8f01434"
@@ -32,6 +27,11 @@ katsumanarisawa-a@0.0.5:
   resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.5.tgz#f817c0ed15bc43cf2ac2f0b8755786b088d0e34f"
   integrity sha512-HWczeXopdhHRk4sD1UB3LkuQTArVZXsr85rfoBJwVPLUeHhxa0lDRToy37VDHbML4aDiADEvY43Acwz7F4qZKA==
 
+katsumanarisawa-a@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-a/-/katsumanarisawa-a-0.0.6.tgz#ffd656750ada601fc32ce5e2edb29a67bff4e640"
+  integrity sha512-PaNeWPewfNzQLf+y1IZPLE/895VB1yzK8lTyGeZpaJH9fiXP2+fJQR3grl0rztVXwlnRCG8SmZWxmM5CE5cUrg==
+
 katsumanarisawa-b@0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/katsumanarisawa-b/-/katsumanarisawa-b-0.0.3.tgz#0911a8667e06bfb2a0591f110bf90d9798f7d1f1"
@@ -39,9 +39,9 @@ katsumanarisawa-b@0.0.3:
   dependencies:
     katsumanarisawa-a "0.0.5"
 
-katsumanarisawa-c@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/katsumanarisawa-c/-/katsumanarisawa-c-0.0.1.tgz#02ebf468b937ea0b78d45d93028821cbbd6e5775"
-  integrity sha512-yBuV2Gb46xXsbavzEjFZWMBzIIH9PktrIYHFVJRPH6YSLEa6JDChDrh9n+vTtyUR+/t25Abbs4HwljrzjNn7vA==
+katsumanarisawa-c@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/katsumanarisawa-c/-/katsumanarisawa-c-0.0.3.tgz#5a936d774c899803840dacc563da7fdcd3c562bb"
+  integrity sha512-Ka1eNi0cwyYHu3INY41chMMZkj/wywgXdN9byUYeSXttcBn2uVz5qt6J1V0mUcGDCwoloCpq1Dtug6htJ98tHQ==
   dependencies:
-    katsumanarisawa-a "0.0.2"
+    katsumanarisawa-a "0.0.6"

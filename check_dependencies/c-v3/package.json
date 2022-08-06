@@ -1,9 +1,9 @@
 {
-  "name": "b-v3",
+  "name": "c-v3",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "katsumanarisawa-b": "0.0.3"
+    "katsumanarisawa-c": "0.0.3"
   }
 }
