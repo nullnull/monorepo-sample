@@ -1,1 +1,1 @@
-declare function functionB(): number;
+export declare function functionB(): string;
