@@ -1,1 +1,1 @@
-declare function functionA(): number;
+declare function functionA(): string;
