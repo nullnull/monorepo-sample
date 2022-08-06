@@ -1,1 +1,1 @@
-declare function functionC(): string;
+export declare function functionC(): string;
